@@ -1,4 +1,4 @@
-# Olá, me chamo Yan!:
+# Olá, me chamo Yan!
 Desenvolvedor Front-End na [Rz Code](https://rzcode.com.br) <br>Ciência da Computação - UERN <br><br>
 
 
