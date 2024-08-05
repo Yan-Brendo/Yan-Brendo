@@ -5,7 +5,10 @@ Desenvolvedor Front-End na [Rz Code](https://rzcode.com.br) <br>Ciência da Comp
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yan_brendo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yan-brendo-dev102030) 
 <div>
-  <a href = "mailto:yan.brendo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+  <a href="mailto:yan.brendo.dev@gmail.com" style="display: inline-block; border-radius: 10px; overflow: hidden;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" style="display: block;">
+</a>
+
 </div>
 
 # Tech Stack:
