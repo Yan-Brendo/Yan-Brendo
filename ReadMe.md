@@ -2,7 +2,7 @@
 Desenvolvedor Front-End na [Rz Code](https://rzcode.com.br) <br>Ciência da Computação - UERN <br><br>
 
 
-## 🌐 Socials:
+## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yan_brendo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yan-brendo-dev102030) 
 
 # 💻 Tech Stack:
