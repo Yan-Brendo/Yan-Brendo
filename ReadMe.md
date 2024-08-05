@@ -1,5 +1,5 @@
-# 💫 About Me:
-Desenvolvedor Front-End na RzCode Company<br>Ciência da Computação - UERN <br><br>
+# Olá, me chamo Yan!:
+Desenvolvedor Front-End na [Rz Code](https://rzcode.com.br) <br>Ciência da Computação - UERN <br><br>
 
 
 ## 🌐 Socials:
