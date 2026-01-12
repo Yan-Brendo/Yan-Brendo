@@ -1,5 +1,5 @@
 # Prazer, Yan!
-Desenvolvedor Front-End na [Rz Code](https://rzcode.com.br) <br>Ciência da Computação - UERN <br><br>
+Desenvolvedor na [Rz Code](https://rzcode.com.br) <br>Ciência da Computação - UERN <br><br>
 
 
 ## Socials:
